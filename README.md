@@ -66,7 +66,7 @@ Execute queries step by step on your local database server.
 
 ---
 
-🛠️ Requirements
+##🛠️ Requirements
 
 PostgreSQL or MySQL (adjust syntax if needed)
 
@@ -85,7 +85,7 @@ DataGrip
 
 ---
 
-🙌 Contributing
+##🙌 Contributing
 
 Want to add your own queries or suggest improvements?
 Feel free to open a pull request or issue. Contributions are welcome!
@@ -93,7 +93,7 @@ Feel free to open a pull request or issue. Contributions are welcome!
 
 ---
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Darshan Ajudiya
 📧 Email | 🌐 GitHub
@@ -101,17 +101,17 @@ Darshan Ajudiya
 
 ---
 
-📄 License
+##📄 License
 
 This project is open-source and available under the MIT License.
 
 
 ---
 
-⭐ If you find this helpful, don't forget to star the repository!
+##⭐ If you find this helpful, don't forget to star the repository!
 
 ---
 
-Let me know if you want this directly uploaded to your repo or need a PDF version for submission.
+##Let me know if you want this directly uploaded to your repo or need a PDF version for submission.
 
 # SQL_CODE
