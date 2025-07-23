@@ -62,7 +62,8 @@ Open any .sql file in your preferred SQL IDE (like PgAdmin, MySQL Workbench, or 
 
 Execute queries step by step on your local database server.
 
-
+---
+---
 
 🛠️ Requirements
 
